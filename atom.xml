@@ -3,11 +3,11 @@
   <title>Happy Birthday !!!</title>
   
   <subtitle>Wish You Live A Wonderful Life</subtitle>
-  <link href="http://gty980218.github.io/atom.xml" rel="self"/>
+  <link href="http://www.yyt-gty.xyz/atom.xml" rel="self"/>
   
-  <link href="http://gty980218.github.io/"/>
+  <link href="http://www.yyt-gty.xyz/"/>
   <updated>2020-12-31T16:14:16.219Z</updated>
-  <id>http://gty980218.github.io/</id>
+  <id>http://www.yyt-gty.xyz/</id>
   
   <author>
     <name>TY Gao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://gty980218.github.io/2021/01/01/My-New-Post/"/>
-    <id>http://gty980218.github.io/2021/01/01/My-New-Post/</id>
+    <link href="http://www.yyt-gty.xyz/2021/01/01/My-New-Post/"/>
+    <id>http://www.yyt-gty.xyz/2021/01/01/My-New-Post/</id>
     <published>2020-12-31T16:00:38.000Z</published>
     <updated>2020-12-31T16:14:16.219Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="学习" scheme="http://gty980218.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="http://www.yyt-gty.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="http://gty980218.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="http://www.yyt-gty.xyz/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://gty980218.github.io/2020/12/31/hello-world/"/>
-    <id>http://gty980218.github.io/2020/12/31/hello-world/</id>
+    <link href="http://www.yyt-gty.xyz/2020/12/31/hello-world/"/>
+    <id>http://www.yyt-gty.xyz/2020/12/31/hello-world/</id>
     <published>2020-12-31T15:15:34.142Z</published>
     <updated>2020-12-31T15:15:34.142Z</updated>
     
