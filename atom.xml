@@ -6,7 +6,7 @@
   <link href="http://www.yyt-gty.xyz/atom.xml" rel="self"/>
   
   <link href="http://www.yyt-gty.xyz/"/>
-  <updated>2021-01-09T13:33:20.813Z</updated>
+  <updated>2021-01-09T14:20:59.295Z</updated>
   <id>http://www.yyt-gty.xyz/</id>
   
   <author>
@@ -17,27 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://www.yyt-gty.xyz/2021/01/01/My-New-Post/"/>
-    <id>http://www.yyt-gty.xyz/2021/01/01/My-New-Post/</id>
-    <published>2020-12-31T16:00:38.000Z</published>
-    <updated>2021-01-09T13:33:20.813Z</updated>
+    <title>Delicious Meals 1</title>
+    <link href="http://www.yyt-gty.xyz/2021/01/09/meals1/"/>
+    <id>http://www.yyt-gty.xyz/2021/01/09/meals1/</id>
+    <published>2021-01-08T16:00:38.000Z</published>
+    <updated>2021-01-09T14:20:59.295Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Delicious-Meals-1&quot;&gt;&lt;a href=&quot;#Delicious-Meals-1&quot; class=&quot;headerlink&quot; title=&quot;Delicious Meals 1&quot;&gt;&lt;/a&gt;Delicious Meals</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;To record the meals you’ve made&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;笔者认为这个三明治看起来很好吃的样子，加点🌶应该更美味（拍摄最佳！）&lt;img</summary>
         
       
     
     
     
-    <category term="学习" scheme="http://www.yyt-gty.xyz/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="美食" scheme="http://www.yyt-gty.xyz/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
-    <category term="学习" scheme="http://www.yyt-gty.xyz/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="美食" scheme="http://www.yyt-gty.xyz/tags/%E7%BE%8E%E9%A3%9F/"/>
     
   </entry>
   

@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Delicious Meals 1</title>
+    <url>/2021/01/09/meals1/</url>
+    <content><![CDATA[<p><strong><em>To record the meals you’ve made</em></strong></p>
+<hr>
+<hr>
+<ul>
+<li>笔者认为这个三明治看起来很好吃的样子，加点🌶应该更美味（拍摄最佳！）<img src="/meals/IMG_6626.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li>希望以后没人天天让我吃青椒，🥦倒是很不错的样子<img src="/meals/IMG_6622.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li>笔者觉得这个鸡排估计不错，但是旁边的绿色棒棒估计不好吃<img src="/meals/IMG_6630.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li>感觉这个面很酸爽的样子，牛肉一看就没有炖烂，但也还可以，就是不知道旁边好喝的是什么？<img src="/meals/IMG_6625.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li>哎呀，我最喜欢吃咖喱了，完美！<img src="/meals/IMG_6629.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>美食</category>
+      </categories>
+      <tags>
+        <tag>美食</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/12/31/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -13,16 +51,5 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>My New Post</title>
-    <url>/2021/01/01/My-New-Post/</url>
-    <content><![CDATA[<h1 id="Delicious-Meals-1"><a href="#Delicious-Meals-1" class="headerlink" title="Delicious Meals 1"></a>Delicious Meals 1</h1>]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-      </tags>
   </entry>
 </search>
