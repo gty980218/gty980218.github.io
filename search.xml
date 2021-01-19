@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Delicious Meals 1</title>
+    <title>Hello World</title>
+    <url>/2020/12/31/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>羊羊の美味 1</title>
     <url>/2021/01/09/meals1/</url>
     <content><![CDATA[<p><strong><em>To record the meals you’ve made</em></strong></p>
 <hr>
@@ -39,17 +53,70 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/12/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>羊羊の美味 2</title>
+    <url>/2021/01/19/meals2/</url>
+    <content><![CDATA[<p><strong><em>以下均为未来菜单</em></strong></p>
+<hr>
+<hr>
+<ul>
+<li>好吃不过🥟！好玩不过（）子！<br>这个烤鸡看起来相当不错！外焦里嫩！吸溜吸溜<br>蒜蓉生菜也不错！这是目前最完美的一餐！表扬！<img src="/meals/IMG_6678.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li>仿佛起水泡的鸡排玉米烙！（花样还怪多的）凉拌🥒也好吃，不知道有没有放醋！鸡蛋番茄不好吃！（🍅都没去皮👎）<img src="/meals/IMG_6672.JPG" width="500" height="313" align="bottom" />
+</li>
+</ul>
+<hr>
+<ul>
+<li><p>又是一份美味🥪，要给老干妈好评！好吃好吃！</p>
+<img src="/meals/IMG_6681.JPG" width="500" height="313" align="bottom" /></li>
+<li><p>酸豆角炒面！这个太美味了！我最喜欢吃浓汁拌面了，还这么多肉末！</p>
+<img src="/meals/IMG_6673.JPG" width="500" height="313" align="bottom" /></li>
+<li><p>这两个看着就寒碜，但是据本人说味道还不错。哪有可乐鸡翅那么多汤的。羊排也是要用锡纸包着烤！肉汁都跑光了！</p>
+<div align="bottom">
+<img src="/meals/IMG_6675.JPG" width="350"  align="left" />
+<img src="/meals/IMG_6680.JPG" width="350"  />
+</div>
+</li>
+<li><p><sapn>看完记得打赏！！！</sapn></p>
+</li>
+</ul>
 ]]></content>
+      <categories>
+        <category>美食</category>
+      </categories>
+      <tags>
+        <tag>美食</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>喝酒在青岛</title>
+    <url>/2021/01/11/qingdao/</url>
+    <content><![CDATA[<p><strong><em>To memorize the city we’ve been</em></strong></p>
+<hr>
+<hr>
+<center><font color=black size=6>Day 1</font></center>
+
+<ul>
+<li>现在想来时间过得真快，一晃大半年就过去了，蝉鸣也被冬虫匿了音。但该记录的还是应该写下来，凭着记忆还留存大半，赶快动笔。<div >
+<img src="/travel/92519b9dbu472a5b626b488f5b88bad3.JPG" width="338"  align="left" />
+<img src="/travel/IMG_5355.jpeg" width="302">
+</div>
+记得第一天记得第一天记得第一天记得第一天记得第一天记得第一天记得第一天记得第一天
+
+
+
+
+
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>旅行</category>
+      </categories>
+      <tags>
+        <tag>旅行</tag>
+      </tags>
   </entry>
 </search>
